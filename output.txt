@@ -1,0 +1,38 @@
+######################
+Company Compify -- Id 1
+
+Inventory X:
+	Empty
+Inventory Y:
+	Empty
+######################
+Company Chipsters -- Id 2
+
+Inventory X:
+	Empty
+Inventory Y:
+	Grade 0: 22000.0 units
+	Grade 1: 4000.0 units
+
+######################
+Company SpaceChips -- Id 3
+
+Inventory X:
+	Grade 0: 5750.0 units
+Inventory Y:
+	Grade 0: 23750.0 units
+
+######################
+Company Truc -- Id 4
+
+Inventory X:
+	Grade 0: 200000.0 units
+Inventory Y:
+	Empty
+######################
+Company Bidule -- Id 5
+
+Inventory X:
+	Grade 0: 38000.0 units
+Inventory Y:
+	Empty
